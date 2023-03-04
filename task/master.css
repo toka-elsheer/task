@@ -1,0 +1,186 @@
+
+
+.nav{
+   
+}
+.nav .brand{
+    float: left;
+    width: 40%;
+    
+}
+.nav .links{
+    float: right;
+    width: 60%
+    margin top 15px;
+    
+}
+.nav .links li{
+    display: inline-block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+}
+.container{ 
+    width: 1200px;
+    margin: auto;
+} 
+.middle{
+}
+.middl2{
+    
+  
+    border-radius: 6px;
+   overflow: hidden;
+text-transform: uppercase;
+font-size: 20px;
+text-align: center;
+margin-bottom: 0.2%;
+}
+.middle3{
+    border-radius: 6px;
+   overflow: hidden;
+   text-transform:lowercase;
+font-style:italic;
+font-variant: small-caps;
+margin-bottom: 2%;
+text-align: center;
+
+}
+.button{
+   background-color: burlywood; 
+   text-decoration: none;
+  border: 1000%;
+  border: bottom 50px; ;
+  border-top: 50px;
+  text-align: lo ;
+  font-family: "Alegreya Sans";
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    position: relative ; left: 36%;
+    margin-left: 2%;
+
+    
+}
+.iamg{
+    position: relative; right: 10;
+}
+.text{
+    position: relative; 
+    display: flex;
+    position: relative; left: 20%;
+    position: relative; top:10%;
+font-size: 100%;
+    text-transform: uppercase;
+}
+.text2{
+    position: relative; 
+    position: relative; top: 10%;
+    position: relative; left: 20%;
+    font-size: 200%;
+    display: inline-block;
+   
+}
+.text3{
+    position: relative; 
+    position: relative; top: 10%;
+position: relative; left: 20%;
+   
+}
+.img2{
+    position: relative; 
+    position: relative; top: 10%;
+position: relative; left: 17%;
+}
+.img3{
+    position: relative; 
+    position: relative; top: 25%;
+    position: relative; left: 50%; 
+}
+.text4{
+    position: relative; 
+    display: flex;
+  position: relative; bottom: 60%;
+font-size: 100%;
+    text-transform: uppercase;
+    position: relative; left: 2%;
+
+}
+.text5{
+    position: relative; 
+position: relative; left: 2%;
+    position: relative; bottom: 60%;
+    font-size: 200%;
+    display: inline-block;
+   
+}
+.text6{
+    position: relative; 
+   font-size: 100%;
+    position: relative; bottom: 60%;
+    position: relative; left: 2%;
+}
+.text7{
+    position: relative; 
+    position: relative; bottom: 45%;
+    position: relative; left: 5%;
+    font-size: small;
+}
+.text8{
+    position: relative; 
+    position: relative; bottom: 42%;
+    position: relative; left: 5%;
+    font-size: small;
+}
+.text9{
+    position: relative; 
+    position: relative; bottom: 39%;
+    position: relative; left: 5%;
+    font-size: small;
+}
+.img4{
+    position: relative; 
+    position: relative; bottom: 60%;
+    position: relative; left: 2%;
+    font-size: small;
+}
+.img5{
+  
+
+}
+.title{
+    text-align: center;
+    font-size: 200%;
+}
+.titl1{
+    position: relative; left: 11%;
+    font-size: 150%;
+}
+.titl2{
+    position: relative; left: 19%;
+    font-size: 150%;
+}
+.button3{
+    background-color: burlywood; 
+    text-decoration: none;
+   border: 1000%;
+   border: bottom 50px; ;
+   border-top: 50px;
+   text-align: lo ;
+   font-family: "Alegreya Sans";
+     font-size: 1.1em;
+     font-weight: 600;
+     display: inline-block;
+     padding: 0.9375em 2.1875em;
+     letter-spacing: 1px;
+     border-radius: 15px;
+     margin-bottom:50px;
+     position: relative ; left: 40%;
+     position: relative ; top:10%;
+     margin-left: 2%;
+ 
+     
+ }
